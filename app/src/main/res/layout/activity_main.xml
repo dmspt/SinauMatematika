@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/padding"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="center|center_horizontal"
+        android:paddingBottom="@dimen/padding"
+        android:src="@drawable/logo_app" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="138dp"
+        android:gravity="center|center_horizontal"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding">
+
+        <Button
+            android:id="@+id/btn_materi"
+            android:layout_width="@dimen/layout"
+            android:layout_height="@dimen/layout"
+            android:background="?android:attr/selectableItemBackground"
+            android:drawableTop="@mipmap/ic_materi"
+            android:padding="@dimen/padding"
+            android:paddingBottom="@dimen/padding"
+            android:text="Materi"
+            android:textSize="@dimen/textsize" />
+
+        <Button
+            android:id="@+id/btn_istilah"
+            android:layout_width="@dimen/layout"
+            android:layout_height="@dimen/layout"
+            android:background="?android:attr/selectableItemBackground"
+            android:drawableTop="@mipmap/ic_istilah"
+            android:padding="@dimen/padding"
+            android:text="Istilah"
+            android:textSize="@dimen/textsize" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="138dp"
+        android:gravity="center|center_horizontal"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding">
+
+        <Button
+            android:id="@+id/btn_sejarah"
+            android:layout_width="@dimen/layout"
+            android:layout_height="@dimen/layout"
+            android:background="?android:attr/selectableItemBackground"
+            android:drawableTop="@mipmap/ic_sejarah"
+            android:padding="@dimen/padding"
+            android:paddingBottom="@dimen/padding"
+            android:text="Sejarah"
+            android:textSize="@dimen/textsize" />
+
+        <Button
+            android:id="@+id/btn_info"
+            android:layout_width="@dimen/layout"
+            android:layout_height="@dimen/layout"
+            android:background="?android:attr/selectableItemBackground"
+            android:drawableTop="@mipmap/ic_info"
+            android:padding="@dimen/padding"
+            android:text="Info"
+            android:textSize="@dimen/textsize" />
+
+    </LinearLayout>
+
+</LinearLayout>

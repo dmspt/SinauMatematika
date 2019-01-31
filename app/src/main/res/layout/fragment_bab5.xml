@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.Bab5">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="@dimen/padding"
+                android:text="MEMBANDINGKAN BERAT BENDA"
+                android:textColor="@color/textblack"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingLeft="@dimen/padding"
+                android:paddingTop="@dimen/padding"
+                android:paddingRight="@dimen/padding"
+                android:text="Ada 2 macam pengelompokkan berat benda, yaitu benda berat dan benda ringan."
+                android:textColor="@color/textblack" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/padding"
+                    android:text="Benda Berat"
+                    android:textColor="@color/textblack"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding"
+                    android:text="Contohnya : Lemari, Meja, Mobil, dan lain - lain."
+                    android:textColor="@color/textblack" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/lemari" />
+
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/meja" />
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="150dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/mobil" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/padding"
+                    android:text="Benda Ringan"
+                    android:textColor="@color/textblack"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding"
+                    android:text="Contohnya : Buku, Gelas, Pensil, dan lain - lain."
+                    android:textColor="@color/textblack" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding">
+
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/buku" />
+
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/pensil" />
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="150dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/gelas" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

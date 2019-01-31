@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.Bab6">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingTop="@dimen/padding"
+                    android:text="MACAM BANGUN DATAR"
+                    android:textColor="@color/textblack"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_gravity="center"
+                        android:paddingTop="@dimen/padding"
+                        android:src="@drawable/segi_empat" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:padding="@dimen/padding"
+                        android:text="Persegi/Segi Empat"
+                        android:textColor="@color/textblack"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="Ciri-Ciri :"
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Memiliki 4 sisi."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Memiliki 4 titik sudut."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Sudutnya membentuk siku - siku."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:paddingBottom="@dimen/padding"
+                        android:text="- Sisinya sama panjang."
+                        android:textColor="@color/textblack" />
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_gravity="center"
+                        android:paddingTop="@dimen/padding"
+                        android:src="@drawable/persegi_panjang" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:padding="@dimen/padding"
+                        android:text="Persegi Panjang"
+                        android:textColor="@color/textblack"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="Ciri-Ciri :"
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Memiliki 4 sisi."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Memiliki 2 sisi sejajar sama panjang."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Memiliki 4 titik sudut."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:paddingBottom="@dimen/padding"
+                        android:text="- Titik sudutnya membentuk siku - siku."
+                        android:textColor="@color/textblack" />
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_gravity="center"
+                        android:paddingTop="@dimen/padding"
+                        android:src="@drawable/lingkaran" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:padding="@dimen/padding"
+                        android:text="Lingkaran"
+                        android:textColor="@color/textblack"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="Ciri-Ciri :"
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Tidak memiliki titik sudut."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Sudutnya 360 derajat."
+                        android:textColor="@color/textblack" />
+
+                    <ImageView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_gravity="center"
+                        android:paddingTop="@dimen/padding"
+                        android:src="@drawable/segitiga" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:padding="@dimen/padding"
+                        android:text="Segitiga"
+                        android:textColor="@color/textblack"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="Ciri-Ciri :"
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Memiliki 3 sisi."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Memiliki total sudut 180 derajat."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:text="- Memiliki 3 titik sudut."
+                        android:textColor="@color/textblack" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/padding"
+                        android:paddingBottom="@dimen/padding"
+                        android:text="- Titik sudutnya membentuk siku - siku."
+                        android:textColor="@color/textblack" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</FrameLayout>

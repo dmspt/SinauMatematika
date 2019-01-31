@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Sinau Matematika</string>
+
+    <string name="info1">Sinau Matematika adalah aplikasi berbasis android yang memuat Materi Matematika SD kelas 1.</string>
+    <string name="info2">Di dalam aplikasi ini memuat materi dari bab 1 - 6.</string>
+    <string name="info3">Aplikasi ini mengambil referensi materi dari berbagai sumber,Dan juga menggunakan 1 API.</string>
+    <string name="info4">Aplikasi ini masih dalam tahap pengembangan.</string>
+    <string name="info5">Develop By :</string>
+    <string name="info6">Adam Septa Alghifari</string>
+    <string name="info7">Gilang Deva</string>
+    <string name="info8">Hanif Mustofa</string>
+
+    <string name="listbab">
+        <item>Bab 1</item>
+        <item>Bab 2</item>
+        <item>Bab 3</item>
+        <item>Bab 4</item>
+        <item>Bab 5</item>
+        <item>Bab 6</item>
+    </string>
+
+    <string name="istilah">
+<![CDATA[
+<html>
+ <head>
+ </head>
+ <body style="color:black;">
+ 	<h1 style="text-align:center;font-style:bold">Istilah Pada Matematika</h1>
+ 	<p><i>Bilangan Cacah</i> adalah bilangan bulat yang dimulai dari nol(0).</p>
+ 	<p><i>Penjumlahan</i> adalah jika suatu bilangan dijumlahkan maka akan bertambah banyak.</p>
+ 	<p><i>Pengurangan</i> adalah jika suatu bilangan dikurangi maka akan menjadi sedikit.</p>
+ 	<p><i>Perkalian</i> adalah operasi hitung dengan cara melipat gandakan suatu bilangan sesuai dengan bilangan pengalinya.</p>
+ 	<p><i>Pembagian</i> adalah kebalikan dari operasi perkalian.</p>
+ 	<p><i>Bangun datar</i> adalah bangun yang rata yang mempunyai dua demensi yaitu panjang dan lebar, tetapi tidak mempunyai tinggi atau tebal</p>
+ 	<p><i>Bangun ruang</i> adalah bangun matematika yang memiliki isi atau volume.</p>
+ 	<p><i>Luas</i> adalah besaran yang menyatakan ukuran dua dimensi suatu bagian permukaan yang dibatasi oleh kurva tertutup.</p>
+ 	<p><i>Volume</i> adalah penghitungan seberapa banyak ruang yang bisa ditempati dalam suatu objek.</p>
+
+ </body>
+</html>
+]]>
+    </string>
+
+    <string name="sejarah">
+<![CDATA[
+<html>
+ <head>
+ </head>
+ <body style="text-align:justify;color:black;">
+ 	<h1 style="text-align:center;font-style:bold">Sejarah Matematika</h1>
+ 	<p>Matematika adalah alat yang dapat membantu memecahkan berbagai permasalahan. Sejarah matematika adalah penyelidikan terhadap asal mula penemuan di dalam matematika dan sedikit perluasannya, penyelidikan terhadap metode dan notasi matematika dimasa silam. Dalam perjalanan sejarahnya, matematika berperan membangun peradaban manusia sepanjang masa.</p>
+ 	<p>Sebelum zaman modern danpenyebaran ilmu pengetahuan ke seluruh dunia, contoh-contoh tertulis daripengembangan matematika telah mengalami kemilau hanya di beberapa tempat.Tulisan matematika terkuno yang telah ditemukan adalah Plimpton322(matematikaBabilonia sekitar 1900 SM), Lembaran Matematika Rhind (MatematikaMesir sekitar 2000-1800 SM) dan Lembaran Matematika Moskwa (matematika Mesir sekitar 1890 SM).    Semua tulisan itu membahas teorema yang umumdikenal sebagai teorema Pythagoras,yang tampaknya menjadi pengembangan matematika tertua dan paling tersebar luassetelah aritmetika dasar dan geometri.</p>
+ 	<p>Sumbangan matematikawanYunani memurnikan metode-metode (khususnya melalui pengenalanpenalaran deduktif dan kekakuan matematikadi dalam pembuktian matematika) dan perluasan pokok bahasan matematika. Kata"matematika" itu sendiri diturunkan dari kata Yunani kuno, μάθημα(mathema), yang berarti "mata pelajaran".MatematikaCina membuat sumbangan dini, termasuk notasiposisional. Sistem bilangan Hindu-Arab dan aturanpenggunaan operasinya, digunakan hingga kini, mungkin dikembangakan melaluikuliah pada milenium pertama Masehi di dalam matematika Indiadan telah diteruskan ke Barat melalui matematika Islam. Matematika Islam, pada gilirannya, mengembangkan dan memperluas pengetahuanmatematika ke peradaban ini. Banyak naskah berbahasa Yunani dan Arab tentangmatematika kemudian diterjemahkan ke dalam bahasa Latin, yang mengarah padapengembangan matematika lebih jauh lagi diZaman Pertengahan Eropa.</p>
+ 	<p>Dari zaman kuno melalui ZamanPertengahan, ledakan kreativitas matematika seringkali diikuti oleh abad-abadkemandekan. Bermula pada abad Renaisans Italia pada abad ke-16, pengembanganmatematika baru, berinteraksi dengan penemuan ilmiah baru, dibuat padapertumbuhan eksponensial yang berlanjut hingga kini.</p>
+ 	<br>
+ 	<h2><b><i>A. Secara Geografis</b></i></h2>
+ 	<p><i>1. Mesopotamia</i>
+ 		<br>- Menentukan system bilangan pertama kali
+		<br>- Menemukan system berat dan ukur 
+		<br>- Tahun 2500 SM system desimal tidak lagi digunakan dan lidi diganti oleh notasi berbentukbaji</p>
+	<p><i>2. Babilonia</i>
+		<br>- Menggunakan sitem desimal dan π=3,125
+		<br>- Penemu kalkulator pertama kali
+		<br>- Mengenal geometri sebagai basis perhitungan astronomi
+		<br>- Menggunakan pendekatan untuk akar kuadrat
+		<br>- Geometrinya bersifat aljabaris
+		<br>- Aritmatika tumbuh dan berkembang baik menjadi aljabar retoris yang berkembang
+		<br>- Sudah mengenal teorema Pythagoras</p>
+	<p><i>3. Mesir Kuno</i>
+		<br>- Sudah mengenal rumus untuk menghitung luas dan isi
+		<br>- Mengenal system bilangan dan symbol pada tahun 3100 SM
+		<br>- Mengenal tripel Pythagoras
+		<br>- Sitem angka bercorak aditif dan aritmatika
+		<br>- Tahun 300 SM menggunakan system bilangan berbasis 10</p>
+	<p><i>4. Yunani Kuno</i>
+		<br>- Pythagoras membuktikan teorema Pythagoras secara matematis (terbaik)
+		<br>- Pencetus awal konsep[ nol adalah Al Khwarizmi
+		<br>- Archimedes mencetuskan nama parabola, yang artinya bagian sudut kanan kerucut
+		<br>- Hipassus penemu bilangan irrasional
+		<br>- Diophantus penemu aritmatika (pembahasan teori-teori bilangan yang isinyamerupakan pengembangan aljabar yang dilakukan bersamaan)
+		<br>- Archimedes membuat geometri bidang datar
+		<br>- Mengenal bilangan prima</p>
+	<p><i>5. India</i>
+		<br>- Brahmagyupta lahir pada 598-660 Ad
+		<br>- Aryabtha (4018 SM) menemukan hubungan keliling sebuah lingkaran 
+		<br>- Memperkenalkan pemakaian nol dan desimal 
+		<br>- Brahmagyupta menemukan bilangan negatif 
+		<br>- Rumus a2+b2+c2 telah ada pada “Sulbasutra”
+		<br>- Geometrinya sudah mengenal tripel Pythagoras,teorema Pythagoras,transformasidan segitiga pascal</p>
+	<p><i>6. China</i>
+		<br>- Mengenal sifat-sifat segitiga siku-siku tahun 3000 SM
+		<br>- Mengembangkan angka negatif, bilangan desimal, system desimal, system biner,aljabar, geometri, trigonometri dan kalkulus
+		<br>- Telah menemukan metode untuk memecahkan beberapa jenis persamaan yaitupersamaan kuadrat, kubikdan qualitik
+		<br>- Aljabarnya menggunakan system horner untuk menyelesaikan persamaan kuadrat</p>
+		<br>
+	<h2><b><i>B. Berdasarkan Tokoh</i></b></h2>
+	<p><i>1. Thales (624-550 SM)</i>
+	Dapat disebut matematikawan pertama yang merumuskan teorema atau proposisi,dimana tradisi ini menjadi lebih jelas setelah dijabarkan oleh Euclid. Landasan matematika sebagai ilmuterapan rupanya sudah diletakan oleh Thales sebelum muncul Pythagoras yangmembuat bilangan.</p>
+	<p><i>2. Pythagoras (582-496 SM)</i>
+	Pythagoras adalah orang yang pertama kali mencetuskan aksioma-aksioma,postulat-postulat yang perlu dijabarkan ter lebih dahulu dalam mengembangkangeometri. Pythagoras bukan orang yang menemukan suatu teorema Pythagoras namundia berhasil membuat pembuktian matematis. 2 sebagai bilangan irrasional.ÖPersaudaraan Pythagoras menemukan</p>
+	<p><i>3. Socrates (427-347 SM)</i>
+	Ia merupakan seorang filosofi besar dari Yunani. Dia juga menjadi pencipta ajaranserba cita, karena itu filosofinya dinamakan idealisme. Ajarannya lahir karenapergaulannya dengan kaum sofis. Plato merupakan ahli piker pertama yangmenerima paham adanya alam bukan benda.</p>
+	<p><i>4. Ecluides (325-265 SM)</i>
+	Euklides disebut sebagai “Bapak Geometri” karena menemuka teori bilangan dangeometri. Subyek-subyek yang dibahas adalah bentuk-bentuk, teorema Pythagoras,persamaan dalam aljabar, lingkaran, tangen,geometri ruang, teori proporsi danlain-lain. Alat-alat temuan Eukluides antara lain mistar dan jangka.</p>
+	<p><i>5. Archimedes (287-212 SM)</i>
+	Dia mengaplikasikan prinsip fisika dan matematika. Dan juga menemukanperhitungan π (pi) dalam menghitung luas lingkaran. Ia adalah ahli matematikaterbesar sepanjang zaman dan di zaman kuno. Tiga kaaarya Archimedes membahasgeometri bidang datar, yaitu pengukuran lingkaran, kuadratur dari parabola danspiral.</p>
+	<p><i>6. Appolonius (262-190 SM)</i>
+	Konsepnya mengenai parabola, hiperbola, dan elips banyak memberi sumbangan bagiastronomi modern. Ia merupakan seorang matematikawan tang ahli dalam geometri.Teorema Appolonius menghubungkan beberapa unsur dalam segitiga.</p>
+	<p><i>7. Diophantus (250-200 SM)</i>
+	Ia merupakan “Bapak Aljabar” bagi Babilonia yang mengembangkan konsep-konsepaljabar Babilonia. Seorang matematikawan Yunani yang bermukim di Iskandaria.Karya besar Diophantus berupa buku aritmatika, buku karangan pertama tentangsystem aljabar. Bagian yang terpelihara dari aritmatika Diophantus berisipemecahan kira-kira 130 soal yang menghasilkan persamaan-persamaan tingkatpertama.</p>
+
+ </body>
+</html>
+]]>
+</string>
+
+
+    <string name="cacah">BILANGAN CACAH</string>
+    <string name="bab2">Penjumlahan adalah jika suatu bilangan dijumlahkan maka akan bertambah banyak.</string>
+    <string name="bab2_2">Pengurangan adalah jika suatu bilangan dikurangi maka akan menjadi sedikit.</string>
+    <string name="Kubuss">Kubus adalah bangun ruang tiga dimensi yang dibatasi oleh enam bidang sisi yang kongruen berbentuk bujur sangkar. Kubus memiliki 6 sisi, 12 rusuk dan 8 titik sudut. Kubus juga disebut bidang enam beraturan.</string>
+    <string name="Balok">Balok adalah bangun ruang tiga dimensi yang dibentuk oleh tiga pasang persegi atau persegi panjang, dengan paling tidak satu pasang di antaranya berukuran berbeda. Balok memiliki 6 sisi, 12 rusuk dan 8 titik sudut.</string>
+    <string name="Kerucut">Kerucut adalah sebuah limas istimewa yang beralas lingkaran. Kerucut memiliki 2 sisi dan 1 rusuk.</string>
+    <string name="Tabung">Tabung  adalah bangun ruang tiga dimensi yang dibentuk oleh dua buah lingkaran  dan sebuah persegi panjang yang mengelilingi kedua lingkaran tersebut. Tabung memiliki 3 sisi dan 2 rusuk.</string>
+
+</resources>
